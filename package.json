@@ -1,0 +1,25 @@
+{
+  "name": "sorting_visualizer-master",
+  "version": "1.0.0",
+  "description": "Sorting visualiser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aps-project1234/Sort_visualiser.git"
+  },
+  "author": "Somya Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aps-project1234/Sort_visualiser/issues"
+  },
+  "homepage": "https://github.com/Aps-project1234/Sort_visualiser#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
